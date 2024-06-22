@@ -1,3 +1,5 @@
+alert("нажмите на кнопку 2 раза, это скоро будит пофикшено.")
+
 function HideText() {
    const Text1 = document.getElementById("Tex1");
    let audio = new Audio();
